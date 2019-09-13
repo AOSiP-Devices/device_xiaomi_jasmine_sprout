@@ -2,5 +2,11 @@
   {
     "repository": "device_xiaomi_wayne-common",
     "target_path": "device/xiaomi/wayne-common"
+  },
+  {
+    "repository": "device_twrp",
+    "target_path": "device/twrp/jasmine_sprout",
+    "branch": "jasmine_sprout",
+    "clone-depth" : "1"
   }
 ]
